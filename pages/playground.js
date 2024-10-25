@@ -186,7 +186,7 @@ const Playground = (props) => {
           }
           .playground-frame3 {
             gap: 15px;
-            height: 130px;
+            height: auto;
             display: flex;
             padding: 10px 47px;
             overflow: hidden;
