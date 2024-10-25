@@ -1,6 +1,18 @@
 import React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
+import { Analytics } from '@vercel/analytics/react';
+ 
+function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
+}
+ 
+export default MyApp;
 
 const Landing = (props) => {
   return (
