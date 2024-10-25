@@ -11,13 +11,13 @@ const Landing = (props) => {
           <title>Perfin</title>
         <meta property="og:title" content="Perfin" />
         <meta property="og:description" content="Perfin.ai – A full range AI financial advisor for helping you make your investment choices or any other finance related endeavors.." />
-        <meta property="og:image" content="https://yourwebsite.com/path-to-your-image.jpg" />
+        <meta property="og:image" content="https://i.imgur.com/fHno3pq.png" />
         <meta property="og:url" content="https://Perfin.ai" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Perfin" />
         <meta name="twitter:description" content="Perfin.ai – A full range AI financial advisor for helping you make your investment choices or any other finance related endeavors.." />
-        <meta name="twitter:image" content="https://yourwebsite.com/path-to-your-image.jpg" />
+        <meta name="twitter:image" content="https://i.imgur.com/fHno3pq.png" />
         </Head>
         <div className="landing-desktop1">
           <div className="landing-frame1">
